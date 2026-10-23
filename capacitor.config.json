@@ -1,0 +1,9 @@
+
+{
+  "appId": "com.scandoc.pro",
+  "appName": "ScanDoc Pro",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  }
+}
